@@ -62,6 +62,7 @@ An interactive Pizza Sales Dashboard built in Microsoft Excel to analyze sales p
 
 ## 🔗 Related SQL Project
 This dashboard was developed using insights from a separate SQL-based Pizza Sales Analysis project.
+
 SQL Project Repository: [Pizza Sales Analysis SQL Project](https://github.com/papaichakraborty-ai/Pizza-Sales-Analysis-Sql-Project)
 ---
 
